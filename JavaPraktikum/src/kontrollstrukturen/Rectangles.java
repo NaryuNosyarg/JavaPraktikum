@@ -1,9 +1,15 @@
 package kontrollstrukturen;
 
+/**
+ * 
+ * @author stefanie.feuerriegel
+ *
+ *         Rectangles klassifizert die gegenseitige Lage von zwei Rechtecken
+ */
 public class Rectangles {
-	public static void main(String[] args){
-	
-	int i = 0;
+	public static void main(String[] args) {
+
+		int i = 0;
 	int px = Integer.parseInt(args[i++]);
 	int py = Integer.parseInt(args[i++]);
 	int qx = Integer.parseInt(args[i++]);

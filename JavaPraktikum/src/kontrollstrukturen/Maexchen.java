@@ -1,5 +1,13 @@
 package kontrollstrukturen;
 
+/**
+ * 
+ * @author stefanie.feuerriegel
+ * 
+ * Maexchen ist ein einfaches Würfelspiel
+ * 
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
