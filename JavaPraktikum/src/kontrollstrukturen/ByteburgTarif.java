@@ -28,7 +28,7 @@ public class ByteburgTarif {
 		int station2 = Integer.valueOf(ein.readLine()).intValue();
 
 		//int station1 = Integer.parseInt(args[0]);
-	    //int station2 = Integer.parseInt(args[1]);
+		//int station2 = Integer.parseInt(args[1]);
 
 		int min = Math.min(station1, station2);
 		int max = Math.max(station1, station2);
